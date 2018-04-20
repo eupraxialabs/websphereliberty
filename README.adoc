@@ -26,6 +26,9 @@ Liberty.
 
 == What you'll learn
 
+You will learn out to develop in the open source DevOps tool Eclipse Che and deploy to OpenShift and Kubernetes
+with the Fabric8 Maven plugin (FMP).
+
 You will learn how to access a REST service and deserialize the returned JSON that contains a list of
 artists and their albums by using the high-level `$resource` service of AngularJS.
 
