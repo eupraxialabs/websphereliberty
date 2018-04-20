@@ -23,7 +23,7 @@ public class Reader {
     
     public static JsonArray getArtists() {
        // final String PATH = "./../../../../../src/resources/artist.json";
-              final String PATH = "/projects//websphereliberty/src/resources/artists.json";
+              final String PATH = "/projects/eupraxialabs-websphereliberty/src/resources/artists.json";
         try {
             InputStream fis;
             fis = new FileInputStream(PATH);
