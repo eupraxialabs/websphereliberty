@@ -10,6 +10,7 @@
  *     IBM Corporation - initial API and implementation
  *******************************************************************************/
  // end::comment[]
+ 
 package io.openliberty.guides.consumingrest.service;
 
 import javax.ws.rs.ApplicationPath;
